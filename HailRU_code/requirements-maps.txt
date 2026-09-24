@@ -1,0 +1,4 @@
+cartopy
+cnmaps
+geopandas
+shapely
